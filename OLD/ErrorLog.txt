@@ -1,0 +1,1486 @@
+Ran at 2020-08-18 01:25:26.828816
+Error - 1 Not found in page1
+Error - 3 Not found in page1
+Error - 10 Not found in page1
+Error - 14 Not found in page1
+Ran at 2020-08-18 01:31:51.002396
+Going through pages of listings within suburbs broken at page2
+Ran at 2020-08-18 01:36:26.562996
+Error - 3 Not found in page2
+Error - 10 Not found in page2
+Error - 14 Not found in page2
+Error - 20 Not found in page2
+Error - 24 Not found in page2
+Ran at 2020-08-18 01:42:51.593838
+Error - 3 Not found in page3
+Error - 4 Not found in page3
+Error - 10 Not found in page3
+Error - 14 Not found in page3
+Error - 24 Not found in page3
+Ran at 2020-08-18 01:48:58.990311
+Error - 3 Not found in page4
+Error - 5 Not found in page4
+Error - 10 Not found in page4
+Error - 14 Not found in page4
+Error - 24 Not found in page4
+Ran at 2020-08-18 01:54:30.093527
+Error - 3 Not found in page5
+Error - 10 Not found in page5
+Error - 14 Not found in page5
+Error - 24 Not found in page5
+Ran at 2020-08-18 01:59:31.667995
+Error - 3 Not found in page6
+Error - 5 Not found in page6
+Error - 10 Not found in page6
+Error - 14 Not found in page6
+Error - 15 Not found in page6
+Error - 16 Not found in page6
+Error - 24 Not found in page6
+Ran at 2020-08-18 02:04:31.959317
+Error - 3 Not found in page7
+Error - 10 Not found in page7
+Error - 14 Not found in page7
+Error - 24 Not found in page7
+Ran at 2020-08-18 02:09:33.049872
+Error - 3 Not found in page8
+Error - 10 Not found in page8
+Error - 11 Not found in page8
+Error - 14 Not found in page8
+Error - 19 Not found in page8
+Error - 24 Not found in page8
+Ran at 2020-08-18 02:14:34.481565
+Error - 3 Not found in page9
+Error - 10 Not found in page9
+Error - 14 Not found in page9
+Error - 24 Not found in page9
+Ran at 2020-08-18 02:19:41.064533
+Error - 3 Not found in page10
+Error - 10 Not found in page10
+Error - 14 Not found in page10
+Error - 24 Not found in page10
+Ran at 2020-08-18 02:24:43.136578
+Error - 3 Not found in page11
+Error - 7 Not found in page11
+Error - 10 Not found in page11
+Error - 14 Not found in page11
+Error - 24 Not found in page11
+Ran at 2020-08-18 02:29:44.383510
+Error - 3 Not found in page12
+Error - 6 Not found in page12
+Error - 7 Not found in page12
+Error - 10 Not found in page12
+Error - 14 Not found in page12
+Error - 21 Not found in page12
+Error - 24 Not found in page12
+Ran at 2020-08-18 02:34:42.989319
+Error - 3 Not found in page13
+Error - 10 Not found in page13
+Error - 14 Not found in page13
+Error - 15 Not found in page13
+Error - 23 Not found in page13
+Error - 24 Not found in page13
+Ran at 2020-08-18 02:39:58.959535
+Error - 3 Not found in page14
+Error - 8 Not found in page14
+Error - 10 Not found in page14
+Error - 14 Not found in page14
+Error - 24 Not found in page14
+Ran at 2020-08-18 02:45:17.470942
+Error - 3 Not found in page15
+Error - 10 Not found in page15
+Error - 14 Not found in page15
+Error - 20 Not found in page15
+Error - 24 Not found in page15
+Ran at 2020-08-18 02:50:39.546487
+Error - 3 Not found in page16
+Error - 10 Not found in page16
+Error - 14 Not found in page16
+Error - 22 Not found in page16
+Error - 24 Not found in page16
+Ran at 2020-08-18 02:55:58.846703
+Error - 3 Not found in page17
+Error - 10 Not found in page17
+Error - 14 Not found in page17
+Error - 23 Not found in page17
+Error - 24 Not found in page17
+Ran at 2020-08-18 03:01:17.393386
+Error - 3 Not found in page18
+Error - 10 Not found in page18
+Error - 14 Not found in page18
+Error - 24 Not found in page18
+Ran at 2020-08-18 03:06:41.591032
+Error - 3 Not found in page19
+Error - 10 Not found in page19
+Error - 14 Not found in page19
+Error - 24 Not found in page19
+Ran at 2020-08-18 03:12:05.440607
+Error - 3 Not found in page20
+Error - 10 Not found in page20
+Error - 14 Not found in page20
+Error - 21 Not found in page20
+Error - 24 Not found in page20
+Ran at 2020-08-18 03:17:26.767209
+Error - 3 Not found in page21
+Error - 9 Not found in page21
+Error - 10 Not found in page21
+Error - 14 Not found in page21
+Error - 24 Not found in page21
+Ran at 2020-08-18 03:22:42.811329
+Error - 3 Not found in page22
+Error - 7 Not found in page22
+Error - 10 Not found in page22
+Error - 12 Not found in page22
+Error - 14 Not found in page22
+Error - 15 Not found in page22
+Error - 19 Not found in page22
+Error - 24 Not found in page22
+Ran at 2020-08-18 03:27:53.906798
+Error - 3 Not found in page23
+Error - 10 Not found in page23
+Error - 14 Not found in page23
+Error - 24 Not found in page23
+Ran at 2020-08-18 03:33:17.030905
+Error - 3 Not found in page24
+Error - 10 Not found in page24
+Error - 14 Not found in page24
+Error - 20 Not found in page24
+Error - 24 Not found in page24
+Ran at 2020-08-18 03:38:48.543484
+Error - 3 Not found in page25
+Error - 10 Not found in page25
+Error - 13 Not found in page25
+Error - 14 Not found in page25
+Error - 16 Not found in page25
+Error - 24 Not found in page25
+Ran at 2020-08-18 03:44:17.738218
+Error - 3 Not found in page26
+Error - 10 Not found in page26
+Error - 14 Not found in page26
+Error - 24 Not found in page26
+Ran at 2020-08-18 03:50:08.172052
+Error - 3 Not found in page27
+Error - 9 Not found in page27
+Error - 10 Not found in page27
+Error - 14 Not found in page27
+Error - 24 Not found in page27
+Ran at 2020-08-18 03:55:51.017836
+Error - 3 Not found in page28
+Error - 10 Not found in page28
+Error - 13 Not found in page28
+Error - 14 Not found in page28
+Error - 24 Not found in page28
+Ran at 2020-08-18 04:01:42.310125
+Error - 3 Not found in page29
+Error - 7 Not found in page29
+Error - 10 Not found in page29
+Error - 13 Not found in page29
+Error - 14 Not found in page29
+Error - 19 Not found in page29
+Error - 24 Not found in page29
+Ran at 2020-08-18 04:09:25.225702
+Error - 3 Not found in page30
+Error - 4 Not found in page30
+Error - 6 Not found in page30
+Error - 7 Not found in page30
+Error - 9 Not found in page30
+Error - 10 Not found in page30
+Error - 11 Not found in page30
+Error - 12 Not found in page30
+Error - 14 Not found in page30
+Error - 15 Not found in page30
+Error - 20 Not found in page30
+Error - 21 Not found in page30
+Error - 24 Not found in page30
+Ran at 2020-08-18 04:19:43.261854
+Error - 3 Not found in page31
+Error - 10 Not found in page31
+Error - 14 Not found in page31
+Error - 16 Not found in page31
+Error - 24 Not found in page31
+Ran at 2020-08-18 04:29:16.533804
+Error - 3 Not found in page32
+Error - 7 Not found in page32
+Error - 10 Not found in page32
+Error - 14 Not found in page32
+Error - 15 Not found in page32
+Error - 16 Not found in page32
+Error - 24 Not found in page32
+Ran at 2020-08-18 04:39:27.816398
+Error - 3 Not found in page33
+Error - 5 Not found in page33
+Error - 6 Not found in page33
+Error - 10 Not found in page33
+Error - 14 Not found in page33
+Error - 16 Not found in page33
+Error - 18 Not found in page33
+Ran at 2020-08-18 10:42:04.045123
+Error - 3 Not found in page33
+Error - 4 Not found in page33
+Error - 5 Not found in page33
+Error - 9 Not found in page33
+Error - 10 Not found in page33
+Error - 12 Not found in page33
+Error - 13 Not found in page33
+Error - 14 Not found in page33
+Error - 17 Not found in page33
+Error - 24 Not found in page33
+Ran at 2020-08-18 10:53:20.478808
+Error - 1 Not found in page34
+Error - 2 Not found in page34
+Error - 3 Not found in page34
+Error - 4 Not found in page34
+Ran at 2020-08-18 11:03:08.625253
+Error - 1 Not found in page34
+Error - 2 Not found in page34
+Error - 3 Not found in page34
+Error - 8 Not found in page34
+Error - 10 Not found in page34
+Error - 12 Not found in page34
+Error - 14 Not found in page34
+Error - 18 Not found in page34
+Error - 24 Not found in page34
+Ran at 2020-08-18 11:06:52.384233
+Error - 2 Not found in page35
+Error - 3 Not found in page35
+Error - 5 Not found in page35
+Error - 10 Not found in page35
+Error - 14 Not found in page35
+Error - 15 Not found in page35
+Error - 24 Not found in page35
+Ran at 2020-08-18 11:10:28.561252
+Error - 1 Not found in page36
+Error - 2 Not found in page36
+Error - 3 Not found in page36
+Error - 4 Not found in page36
+Error - 6 Not found in page36
+Error - 10 Not found in page36
+Error - 14 Not found in page36
+Error - 19 Not found in page36
+Error - 24 Not found in page36
+Ran at 2020-08-18 11:13:59.268389
+Error - 3 Not found in page37
+Error - 4 Not found in page37
+Error - 7 Not found in page37
+Error - 9 Not found in page37
+Error - 10 Not found in page37
+Error - 14 Not found in page37
+Error - 16 Not found in page37
+Error - 18 Not found in page37
+Error - 20 Not found in page37
+Error - 21 Not found in page37
+Error - 22 Not found in page37
+Error - 23 Not found in page37
+Error - 24 Not found in page37
+Ran at 2020-08-18 11:17:30.828978
+Error - 2 Not found in page38
+Error - 3 Not found in page38
+Error - 7 Not found in page38
+Error - 10 Not found in page38
+Error - 11 Not found in page38
+Error - 12 Not found in page38
+Error - 13 Not found in page38
+Error - 14 Not found in page38
+Error - 15 Not found in page38
+Error - 21 Not found in page38
+Error - 24 Not found in page38
+Ran at 2020-08-18 11:21:27.126216
+Error - 1 Not found in page39
+Error - 3 Not found in page39
+Error - 4 Not found in page39
+Error - 10 Not found in page39
+Error - 13 Not found in page39
+Error - 14 Not found in page39
+Error - 18 Not found in page39
+Error - 19 Not found in page39
+Error - 20 Not found in page39
+Error - 24 Not found in page39
+Ran at 2020-08-18 11:24:59.136620
+Error - 2 Not found in page40
+Error - 3 Not found in page40
+Error - 4 Not found in page40
+Error - 8 Not found in page40
+Error - 10 Not found in page40
+Error - 11 Not found in page40
+Error - 14 Not found in page40
+Error - 20 Not found in page40
+Error - 21 Not found in page40
+Error - 23 Not found in page40
+Error - 24 Not found in page40
+Ran at 2020-08-18 11:28:32.252033
+Error - 3 Not found in page41
+Error - 6 Not found in page41
+Error - 8 Not found in page41
+Error - 9 Not found in page41
+Error - 10 Not found in page41
+Error - 13 Not found in page41
+Error - 14 Not found in page41
+Error - 15 Not found in page41
+Error - 16 Not found in page41
+Error - 18 Not found in page41
+Error - 22 Not found in page41
+Error - 23 Not found in page41
+Error - 24 Not found in page41
+Ran at 2020-08-18 11:32:02.657321
+Error - 1 Not found in page42
+Error - 2 Not found in page42
+Error - 3 Not found in page42
+Error - 6 Not found in page42
+Error - 10 Not found in page42
+Error - 14 Not found in page42
+Error - 17 Not found in page42
+Error - 18 Not found in page42
+Error - 19 Not found in page42
+Error - 23 Not found in page42
+Error - 24 Not found in page42
+Ran at 2020-08-18 11:35:34.241773
+Error - 3 Not found in page43
+Error - 5 Not found in page43
+Error - 6 Not found in page43
+Error - 10 Not found in page43
+Error - 12 Not found in page43
+Error - 14 Not found in page43
+Error - 16 Not found in page43
+Error - 18 Not found in page43
+Error - 20 Not found in page43
+Error - 21 Not found in page43
+Error - 22 Not found in page43
+Error - 24 Not found in page43
+Ran at 2020-08-18 11:39:07.866738
+Error - 3 Not found in page44
+Error - 7 Not found in page44
+Error - 8 Not found in page44
+Error - 10 Not found in page44
+Error - 14 Not found in page44
+Error - 16 Not found in page44
+Error - 17 Not found in page44
+Error - 20 Not found in page44
+Error - 24 Not found in page44
+Ran at 2020-08-18 11:42:38.827474
+Error - 3 Not found in page45
+Error - 5 Not found in page45
+Error - 6 Not found in page45
+Error - 10 Not found in page45
+Error - 13 Not found in page45
+Error - 14 Not found in page45
+Error - 18 Not found in page45
+Error - 21 Not found in page45
+Error - 22 Not found in page45
+Error - 24 Not found in page45
+Ran at 2020-08-18 11:46:10.992106
+Error - 2 Not found in page46
+Error - 3 Not found in page46
+Error - 4 Not found in page46
+Error - 5 Not found in page46
+Error - 7 Not found in page46
+Error - 10 Not found in page46
+Error - 11 Not found in page46
+Error - 12 Not found in page46
+Error - 13 Not found in page46
+Error - 14 Not found in page46
+Error - 16 Not found in page46
+Error - 20 Not found in page46
+Error - 21 Not found in page46
+Error - 23 Not found in page46
+Error - 24 Not found in page46
+Ran at 2020-08-18 11:49:39.116043
+Error - 3 Not found in page47
+Error - 4 Not found in page47
+Error - 9 Not found in page47
+Error - 10 Not found in page47
+Error - 12 Not found in page47
+Error - 14 Not found in page47
+Error - 16 Not found in page47
+Error - 17 Not found in page47
+Error - 18 Not found in page47
+Error - 19 Not found in page47
+Error - 23 Not found in page47
+Error - 24 Not found in page47
+Ran at 2020-08-18 11:53:08.329941
+Error - 2 Not found in page48
+Error - 3 Not found in page48
+Error - 6 Not found in page48
+Error - 10 Not found in page48
+Error - 11 Not found in page48
+Error - 14 Not found in page48
+Error - 21 Not found in page48
+Error - 22 Not found in page48
+Error - 24 Not found in page48
+Ran at 2020-08-18 11:56:45.891697
+Error - 3 Not found in page49
+Error - 4 Not found in page49
+Error - 7 Not found in page49
+Error - 8 Not found in page49
+Error - 10 Not found in page49
+Error - 12 Not found in page49
+Error - 14 Not found in page49
+Error - 15 Not found in page49
+Error - 19 Not found in page49
+Error - 22 Not found in page49
+Error - 24 Not found in page49
+Ran at 2020-08-18 12:00:13.599688
+Error - 1 Not found in page50
+Error - 3 Not found in page50
+Error - 5 Not found in page50
+Error - 6 Not found in page50
+Error - 8 Not found in page50
+Error - 9 Not found in page50
+Error - 10 Not found in page50
+Error - 13 Not found in page50
+Error - 14 Not found in page50
+Error - 18 Not found in page50
+Error - 20 Not found in page50
+Error - 21 Not found in page50
+Error - 24 Not found in page50
+Ran at 2020-08-18 12:23:31.224930
+Error - 3 Not found in page1
+Error - 10 Not found in page1
+Error - 14 Not found in page1
+Error - 24 Not found in page1
+Ran at 2020-08-18 12:29:19.347321
+Error - 3 Not found in page2
+Error - 10 Not found in page2
+Error - 14 Not found in page2
+Error - 24 Not found in page2
+Ran at 2020-08-18 12:35:12.704813
+Error - 3 Not found in page3
+Error - 10 Not found in page3
+Error - 14 Not found in page3
+Error - 17 Not found in page3
+Error - 19 Not found in page3
+Error - 24 Not found in page3
+Ran at 2020-08-18 12:40:09.346768
+Error - 3 Not found in page4
+Error - 10 Not found in page4
+Error - 14 Not found in page4
+Error - 24 Not found in page4
+Ran at 2020-08-18 12:44:39.101909
+Error - 3 Not found in page5
+Error - 7 Not found in page5
+Error - 10 Not found in page5
+Error - 14 Not found in page5
+Error - 19 Not found in page5
+Error - 24 Not found in page5
+Ran at 2020-08-18 12:49:13.947890
+Error - 3 Not found in page6
+Error - 10 Not found in page6
+Error - 14 Not found in page6
+Error - 24 Not found in page6
+Ran at 2020-08-18 12:53:56.239926
+Error - 3 Not found in page7
+Error - 10 Not found in page7
+Error - 14 Not found in page7
+Error - 24 Not found in page7
+Ran at 2020-08-18 12:58:39.832548
+Error - 3 Not found in page8
+Error - 10 Not found in page8
+Error - 14 Not found in page8
+Error - 18 Not found in page8
+Error - 20 Not found in page8
+Error - 24 Not found in page8
+Ran at 2020-08-18 13:03:27.468871
+Error - 3 Not found in page9
+Error - 10 Not found in page9
+Error - 14 Not found in page9
+Error - 24 Not found in page9
+Ran at 2020-08-18 13:08:09.793993
+Error - 3 Not found in page10
+Error - 10 Not found in page10
+Error - 14 Not found in page10
+Error - 20 Not found in page10
+Error - 22 Not found in page10
+Error - 24 Not found in page10
+Ran at 2020-08-18 13:12:51.833384
+Error - 3 Not found in page11
+Error - 10 Not found in page11
+Error - 14 Not found in page11
+Error - 24 Not found in page11
+Ran at 2020-08-18 13:17:37.521867
+Error - 3 Not found in page12
+Error - 7 Not found in page12
+Error - 10 Not found in page12
+Error - 14 Not found in page12
+Error - 24 Not found in page12
+Ran at 2020-08-18 13:22:25.039899
+Error - 3 Not found in page13
+Error - 8 Not found in page13
+Error - 10 Not found in page13
+Error - 14 Not found in page13
+Error - 24 Not found in page13
+Ran at 2020-08-18 13:27:24.397039
+Error - 3 Not found in page14
+Error - 10 Not found in page14
+Error - 14 Not found in page14
+Error - 24 Not found in page14
+Ran at 2020-08-18 13:32:16.299600
+Error - 3 Not found in page15
+Error - 10 Not found in page15
+Error - 14 Not found in page15
+Error - 24 Not found in page15
+Ran at 2020-08-18 13:37:08.558265
+Error - 3 Not found in page16
+Error - 7 Not found in page16
+Error - 10 Not found in page16
+Error - 14 Not found in page16
+Error - 24 Not found in page16
+Ran at 2020-08-18 13:42:05.481053
+Error - 3 Not found in page17
+Error - 10 Not found in page17
+Error - 14 Not found in page17
+Error - 20 Not found in page17
+Error - 24 Not found in page17
+Ran at 2020-08-18 13:46:59.342899
+Error - 3 Not found in page18
+Error - 10 Not found in page18
+Error - 14 Not found in page18
+Error - 22 Not found in page18
+Error - 24 Not found in page18
+Ran at 2020-08-18 13:53:21.849900
+Error - 2 Not found in page19
+Error - 3 Not found in page19
+Error - 10 Not found in page19
+Error - 14 Not found in page19
+Error - 24 Not found in page19
+Ran at 2020-08-18 14:01:32.382261
+Error - 3 Not found in page20
+Error - 10 Not found in page20
+Error - 11 Not found in page20
+Error - 14 Not found in page20
+Error - 24 Not found in page20
+Ran at 2020-08-18 14:08:45.805099
+Error - 1 Not found in page21
+Error - 3 Not found in page21
+Error - 10 Not found in page21
+Error - 14 Not found in page21
+Error - 24 Not found in page21
+Ran at 2020-08-18 14:16:02.717380
+Error - 3 Not found in page22
+Error - 10 Not found in page22
+Error - 14 Not found in page22
+Error - 24 Not found in page22
+Ran at 2020-08-18 14:22:56.700749
+Error - 3 Not found in page23
+Error - 6 Not found in page23
+Error - 10 Not found in page23
+Error - 12 Not found in page23
+Error - 14 Not found in page23
+Error - 17 Not found in page23
+Error - 24 Not found in page23
+Ran at 2020-08-18 14:29:53.960015
+Error - 3 Not found in page24
+Error - 10 Not found in page24
+Error - 11 Not found in page24
+Error - 14 Not found in page24
+Error - 15 Not found in page24
+Error - 24 Not found in page24
+Ran at 2020-08-18 14:36:40.475450
+Error - 3 Not found in page25
+Error - 10 Not found in page25
+Error - 14 Not found in page25
+Error - 18 Not found in page25
+Error - 24 Not found in page25
+Ran at 2020-08-18 14:43:37.629560
+Error - 3 Not found in page26
+Error - 10 Not found in page26
+Error - 14 Not found in page26
+Error - 18 Not found in page26
+Error - 24 Not found in page26
+Ran at 2020-08-18 14:51:37.989325
+Error - 3 Not found in page27
+Error - 10 Not found in page27
+Error - 14 Not found in page27
+Error - 24 Not found in page27
+Ran at 2020-08-18 14:59:47.440853
+Error - 3 Not found in page28
+Error - 10 Not found in page28
+Error - 14 Not found in page28
+Error - 16 Not found in page28
+Error - 22 Not found in page28
+Error - 24 Not found in page28
+Ran at 2020-08-18 15:07:58.430322
+Error - 3 Not found in page29
+Error - 7 Not found in page29
+Error - 10 Not found in page29
+Error - 14 Not found in page29
+Error - 15 Not found in page29
+Error - 16 Not found in page29
+Error - 17 Not found in page29
+Error - 19 Not found in page29
+Error - 24 Not found in page29
+Ran at 2020-08-18 15:21:59.500815
+Error - 3 Not found in page30
+Error - 8 Not found in page30
+Error - 10 Not found in page30
+Error - 11 Not found in page30
+Error - 13 Not found in page30
+Error - 14 Not found in page30
+Error - 15 Not found in page30
+Error - 16 Not found in page30
+Error - 24 Not found in page30
+Ran at 2020-08-18 15:39:09.974336
+Error - 3 Not found in page31
+Error - 6 Not found in page31
+Error - 10 Not found in page31
+Error - 12 Not found in page31
+Error - 14 Not found in page31
+Error - 23 Not found in page31
+Error - 24 Not found in page31
+Ran at 2020-08-18 15:59:21.534131
+Error - 3 Not found in page32
+Error - 5 Not found in page32
+Error - 7 Not found in page32
+Error - 8 Not found in page32
+Error - 10 Not found in page32
+Error - 11 Not found in page32
+Error - 13 Not found in page32
+Error - 14 Not found in page32
+Error - 23 Not found in page32
+Error - 24 Not found in page32
+Ran at 2020-08-18 16:20:55.600235
+Error - 3 Not found in page33
+Error - 10 Not found in page33
+Error - 14 Not found in page33
+Error - 17 Not found in page33
+Error - 24 Not found in page33
+Ran at 2020-08-18 16:33:59.468478
+Error - 3 Not found in page34
+Error - 10 Not found in page34
+Error - 13 Not found in page34
+Error - 14 Not found in page34
+Error - 24 Not found in page34
+Ran at 2020-08-18 16:38:09.185877
+Error - 3 Not found in page35
+Error - 10 Not found in page35
+Error - 14 Not found in page35
+Error - 24 Not found in page35
+Ran at 2020-08-18 16:42:07.418868
+Error - 3 Not found in page36
+Error - 10 Not found in page36
+Error - 14 Not found in page36
+Error - 24 Not found in page36
+Ran at 2020-08-18 16:46:03.664549
+Error - 3 Not found in page37
+Error - 10 Not found in page37
+Error - 14 Not found in page37
+Error - 24 Not found in page37
+Ran at 2020-08-18 16:49:49.019899
+Error - 3 Not found in page38
+Error - 9 Not found in page38
+Error - 10 Not found in page38
+Error - 14 Not found in page38
+Error - 15 Not found in page38
+Error - 24 Not found in page38
+Ran at 2020-08-18 16:53:35.621781
+Error - 3 Not found in page39
+Error - 10 Not found in page39
+Error - 14 Not found in page39
+Error - 24 Not found in page39
+Ran at 2020-08-18 16:57:26.607737
+Error - 3 Not found in page40
+Error - 10 Not found in page40
+Error - 14 Not found in page40
+Error - 20 Not found in page40
+Error - 21 Not found in page40
+Error - 24 Not found in page40
+Ran at 2020-08-18 17:01:31.435033
+Error - 3 Not found in page41
+Error - 10 Not found in page41
+Error - 14 Not found in page41
+Error - 24 Not found in page41
+Ran at 2020-08-18 17:05:27.111202
+Error - 3 Not found in page42
+Error - 10 Not found in page42
+Error - 14 Not found in page42
+Error - 23 Not found in page42
+Error - 24 Not found in page42
+Ran at 2020-08-18 17:09:40.396312
+Error - 1 Not found in page43
+Error - 3 Not found in page43
+Error - 10 Not found in page43
+Error - 14 Not found in page43
+Error - 24 Not found in page43
+Ran at 2020-08-18 17:13:43.197594
+Error - 3 Not found in page44
+Error - 10 Not found in page44
+Error - 14 Not found in page44
+Error - 24 Not found in page44
+Ran at 2020-08-18 17:17:29.033127
+Error - 3 Not found in page45
+Error - 10 Not found in page45
+Error - 14 Not found in page45
+Error - 24 Not found in page45
+Ran at 2020-08-18 17:21:17.177211
+Error - 3 Not found in page46
+Error - 10 Not found in page46
+Error - 14 Not found in page46
+Error - 18 Not found in page46
+Error - 24 Not found in page46
+Ran at 2020-08-18 17:25:16.610668
+Error - 3 Not found in page47
+Error - 10 Not found in page47
+Error - 14 Not found in page47
+Error - 24 Not found in page47
+Ran at 2020-08-18 17:29:24.157743
+Error - 3 Not found in page48
+Error - 10 Not found in page48
+Error - 14 Not found in page48
+Error - 18 Not found in page48
+Error - 22 Not found in page48
+Error - 24 Not found in page48
+Ran at 2020-08-18 17:33:38.346657
+Error - 3 Not found in page49
+Error - 10 Not found in page49
+Error - 14 Not found in page49
+Error - 24 Not found in page49
+Ran at 2020-08-18 17:37:50.933840
+Error - 3 Not found in page50
+Error - 10 Not found in page50
+Error - 14 Not found in page50
+Error - 19 Not found in page50
+Error - 24 Not found in page50
+Ran at 2020-08-18 18:23:13.605412
+Ran at 2020-08-18 18:26:24.690093
+Ran at 2020-08-18 18:34:53.760024
+Ran at 2020-08-18 18:36:01.862894
+Ran at 2020-08-18 18:44:38.151879
+Ran at 2020-08-18 18:46:56.949877
+Ran at 2020-08-18 18:49:50.209841
+Ran at 2020-08-18 18:52:49.558225
+Ran at 2020-08-18 19:03:50.067014
+Ran at 2020-08-18 19:06:56.062949
+Ran at 2020-08-18 19:09:56.751798
+Ran at 2020-08-18 19:13:05.179589
+Going through pages of listings within suburbs broken at page7
+Ran at 2020-08-18 19:22:20.219335
+Ran at 2020-08-18 19:25:29.447354
+Ran at 2020-08-18 20:22:55.988505
+Ran at 2020-08-18 20:26:04.779886
+Going through pages of listings within suburbs broken at page10
+Ran at 2020-08-18 20:30:27.006849
+Going through pages of listings within suburbs broken at page10
+Ran at 2020-08-18 20:36:46.262544
+Going through pages of listings within suburbs broken at page10
+Ran at 2020-08-18 20:37:45.751378
+Ran at 2020-08-18 20:40:56.715248
+Ran at 2020-08-18 20:43:54.240736
+Ran at 2020-08-18 20:46:51.512716
+Ran at 2020-08-18 20:49:51.170860
+Ran at 2020-08-18 20:52:56.265332
+Ran at 2020-08-18 20:55:59.467655
+Ran at 2020-08-18 20:59:03.324338
+Ran at 2020-08-18 21:01:59.653964
+Ran at 2020-08-18 21:04:27.788454
+Ran at 2020-08-18 21:06:58.034133
+Ran at 2020-08-18 21:09:35.860539
+Ran at 2020-08-18 21:13:14.597187
+Ran at 2020-08-18 21:16:24.414415
+Ran at 2020-08-18 21:19:27.880858
+Ran at 2020-08-18 21:22:31.412301
+Ran at 2020-08-18 21:25:37.484121
+Ran at 2020-08-18 21:28:39.322839
+Ran at 2020-08-18 21:31:39.927707
+Ran at 2020-08-18 21:34:55.856235
+Ran at 2020-08-18 21:38:55.870147
+Ran at 2020-08-18 21:41:17.451993
+Ran at 2020-08-18 21:44:24.950581
+Ran at 2020-08-18 21:47:40.156125
+Ran at 2020-08-18 21:52:27.568700
+Ran at 2020-08-18 22:00:16.018091
+Ran at 2020-08-18 22:04:33.974323
+Ran at 2020-08-18 22:13:31.457821
+Ran at 2020-08-18 22:23:17.621369
+Ran at 2020-08-18 22:30:46.566715
+Ran at 2020-08-18 22:38:20.544949
+Ran at 2020-08-18 22:45:50.299622
+Ran at 2020-08-18 22:54:53.412908
+Ran at 2020-08-18 23:06:04.347143
+Ran at 2020-08-18 23:16:16.825007
+Ran at 2020-08-18 23:27:05.769773
+Ran at 2020-08-18 23:30:22.374770
+Ran at 2020-08-18 23:34:24.750655
+Ran at 2020-08-18 23:37:29.146022
+Ran at 2020-08-18 23:41:30.621130
+Ran at 2020-08-18 23:44:31.979414
+Ran at 2020-08-19 00:36:49.382264
+Ran at 2020-08-19 00:39:01.948861
+Ran at 2020-08-19 00:40:23.404217
+Ran at 2020-08-19 00:41:44.024257
+Ran at 2020-08-19 00:43:07.962735
+Ran at 2020-08-19 00:44:29.841130
+Ran at 2020-08-19 00:45:50.393721
+Ran at 2020-08-19 00:47:11.584733
+Ran at 2020-08-19 00:48:33.392844
+Ran at 2020-08-19 00:49:55.262381
+Ran at 2020-08-19 00:51:16.873292
+Ran at 2020-08-19 00:52:36.734128
+Ran at 2020-08-19 00:54:00.844037
+Ran at 2020-08-19 00:55:23.600430
+Ran at 2020-08-19 00:56:43.227814
+Ran at 2020-08-19 00:58:03.268437
+Ran at 2020-08-19 00:59:29.404279
+Ran at 2020-08-19 01:00:48.734030
+Ran at 2020-08-19 01:02:09.921430
+Ran at 2020-08-19 01:03:30.107145
+Ran at 2020-08-19 01:04:53.059296
+Ran at 2020-08-19 01:06:12.892500
+Ran at 2020-08-19 01:07:32.854655
+Ran at 2020-08-19 01:08:52.551638
+Ran at 2020-08-19 01:10:20.010364
+Ran at 2020-08-19 01:11:40.666174
+Ran at 2020-08-19 01:13:01.566161
+Ran at 2020-08-19 01:14:21.675468
+Ran at 2020-08-19 01:15:42.459644
+Ran at 2020-08-19 01:17:04.153474
+Ran at 2020-08-19 01:18:25.480363
+Ran at 2020-08-19 01:19:48.760627
+Ran at 2020-08-19 01:21:09.036454
+Ran at 2020-08-19 01:22:29.555269
+Ran at 2020-08-19 01:23:50.058411
+Ran at 2020-08-19 01:25:11.146476
+Ran at 2020-08-19 01:26:32.394231
+Ran at 2020-08-19 01:27:54.425851
+Ran at 2020-08-19 01:29:20.355147
+Ran at 2020-08-19 01:30:40.838315
+Ran at 2020-08-19 01:32:03.840870
+Ran at 2020-08-19 01:33:26.755602
+Ran at 2020-08-19 01:34:44.978341
+Ran at 2020-08-19 01:36:05.050954
+Ran at 2020-08-19 01:37:25.000381
+Ran at 2020-08-19 01:38:42.211739
+Ran at 2020-08-19 01:40:00.829116
+Ran at 2020-08-19 01:41:18.874919
+Ran at 2020-08-19 01:42:37.235002
+Ran at 2020-08-19 01:43:56.886713
+Ran at 2020-08-19 01:45:19.777588
+Ran at 2020-08-19 01:46:39.446932
+Ran at 2020-08-19 01:47:58.031251
+Ran at 2020-08-19 01:49:17.594932
+Ran at 2020-08-19 01:50:36.508280
+Ran at 2020-08-19 01:51:57.975051
+Ran at 2020-08-19 01:53:16.187187
+Ran at 2020-08-19 01:54:34.101215
+Ran at 2020-08-19 01:55:55.073708
+Ran at 2020-08-19 01:57:12.598271
+Ran at 2020-08-19 01:58:32.971089
+Ran at 2020-08-19 01:59:50.589669
+Ran at 2020-08-19 02:01:10.448523
+Ran at 2020-08-19 02:02:29.950699
+Ran at 2020-08-19 02:03:49.648161
+Ran at 2020-08-19 02:05:10.320777
+Ran at 2020-08-19 02:06:29.349436
+Ran at 2020-08-19 02:07:50.534728
+Ran at 2020-08-19 02:09:13.458329
+Ran at 2020-08-19 02:10:41.511672
+Ran at 2020-08-19 02:12:07.367050
+Ran at 2020-08-19 02:13:29.424811
+Ran at 2020-08-19 02:14:53.220902
+Ran at 2020-08-19 02:16:22.188641
+Ran at 2020-08-19 02:17:51.851271
+Ran at 2020-08-19 02:19:11.791166
+Ran at 2020-08-19 02:20:31.128527
+Ran at 2020-08-19 02:21:49.441858
+Ran at 2020-08-19 02:23:07.808953
+Ran at 2020-08-19 02:24:26.481787
+Ran at 2020-08-19 02:25:45.957421
+Ran at 2020-08-19 02:27:04.699007
+Ran at 2020-08-19 02:28:25.613637
+Ran at 2020-08-19 02:29:46.672358
+Ran at 2020-08-19 02:31:10.028988
+Ran at 2020-08-19 02:32:33.009163
+Ran at 2020-08-19 02:33:52.034842
+Ran at 2020-08-19 02:35:09.792930
+Ran at 2020-08-19 02:36:33.578950
+Ran at 2020-08-19 02:37:49.857092
+Ran at 2020-08-19 02:39:12.225053
+Ran at 2020-08-19 02:40:35.496145
+Ran at 2020-08-19 02:41:52.969186
+Ran at 2020-08-19 02:43:18.510526
+Ran at 2020-08-19 02:44:39.214662
+Ran at 2020-08-19 02:45:59.657660
+Ran at 2020-08-19 02:47:20.167969
+Ran at 2020-08-19 02:48:37.726661
+Ran at 2020-08-19 02:49:56.019815
+Ran at 2020-08-19 02:51:14.069103
+Ran at 2020-08-19 02:52:32.368307
+Ran at 2020-08-19 02:53:50.037401
+Ran at 2020-08-19 02:55:10.197366
+Ran at 2020-08-19 02:56:28.545162
+Ran at 2020-08-19 02:57:45.636039
+Ran at 2020-08-19 02:59:04.515396
+Ran at 2020-08-19 03:00:22.419763
+Ran at 2020-08-19 03:01:40.685275
+Ran at 2020-08-19 03:02:58.482722
+Ran at 2020-08-19 03:04:15.467007
+Ran at 2020-08-19 03:05:32.572471
+Ran at 2020-08-19 03:06:51.348390
+Ran at 2020-08-19 03:08:09.056306
+Ran at 2020-08-19 03:09:27.696839
+Ran at 2020-08-19 03:10:48.765053
+Ran at 2020-08-19 03:12:13.193115
+Ran at 2020-08-19 03:13:29.574066
+Ran at 2020-08-19 03:14:45.914385
+Ran at 2020-08-19 03:16:05.466504
+Ran at 2020-08-19 03:17:24.274697
+Ran at 2020-08-19 03:18:41.143873
+Ran at 2020-08-19 03:19:59.209577
+Ran at 2020-08-19 03:21:16.836547
+Ran at 2020-08-19 09:30:06.149187
+Ran at 2020-08-19 09:31:32.284653
+Ran at 2020-08-19 09:32:56.342372
+Ran at 2020-08-19 09:34:31.223982
+Ran at 2020-08-19 09:36:12.058048
+Ran at 2020-08-19 09:37:52.366659
+Ran at 2020-08-19 09:39:39.999249
+Ran at 2020-08-19 09:41:42.898478
+Ran at 2020-08-19 09:45:18.965934
+Ran at 2020-08-19 09:48:39.383567
+Ran at 2020-08-19 09:52:04.985428
+Ran at 2020-08-19 09:55:14.170219
+Ran at 2020-08-19 09:58:03.111966
+Ran at 2020-08-19 10:00:54.369284
+Ran at 2020-08-19 10:00:55.105317
+Ran at 2020-08-19 10:00:55.699577
+Ran at 2020-08-19 10:00:56.308480
+Ran at 2020-08-19 10:00:56.901834
+Ran at 2020-08-19 10:00:57.507073
+Ran at 2020-08-19 10:00:58.167305
+Ran at 2020-08-19 10:00:58.772861
+Ran at 2020-08-19 10:01:00.281068
+Ran at 2020-08-19 10:01:01.419024
+Ran at 2020-08-19 10:01:02.271742
+Ran at 2020-08-19 10:01:03.132441
+Ran at 2020-08-19 10:01:03.971197
+Ran at 2020-08-19 10:01:04.806961
+Ran at 2020-08-19 10:01:05.745450
+Ran at 2020-08-19 10:01:06.643050
+Ran at 2020-08-19 10:01:07.435929
+Ran at 2020-08-19 10:01:08.439865
+Ran at 2020-08-19 10:01:09.242718
+Ran at 2020-08-19 10:01:10.111396
+Ran at 2020-08-19 10:01:10.769633
+Ran at 2020-08-19 10:01:11.596421
+Ran at 2020-08-19 10:01:12.329460
+Ran at 2020-08-19 10:01:13.057547
+Ran at 2020-08-19 10:01:13.793553
+Ran at 2020-08-19 10:01:14.507634
+Ran at 2020-08-19 10:01:15.216739
+Ran at 2020-08-19 10:01:15.961747
+Ran at 2020-08-19 10:01:16.943122
+Ran at 2020-08-19 10:01:17.625332
+Ran at 2020-08-19 10:01:18.213052
+Ran at 2020-08-19 10:01:18.816399
+Ran at 2020-08-19 10:01:19.421786
+Ran at 2020-08-19 10:01:20.068429
+Ran at 2020-08-19 10:01:20.754594
+Ran at 2020-08-19 10:01:21.590324
+Ran at 2020-08-19 10:01:22.330347
+Ran at 2020-08-19 10:01:22.951692
+Ran at 2020-08-19 10:01:23.558820
+Ran at 2020-08-19 10:01:24.182150
+Ran at 2020-08-19 10:01:24.781547
+Ran at 2020-08-19 10:01:25.396361
+Ran at 2020-08-19 10:01:26.001734
+Ran at 2020-08-19 10:01:26.622736
+Ran at 2020-08-19 10:01:27.221739
+Ran at 2020-08-19 10:01:27.994874
+Ran at 2020-08-19 10:01:28.610226
+Ran at 2020-08-19 10:01:29.223586
+Ran at 2020-08-19 10:01:29.798883
+Ran at 2020-08-19 10:01:30.386623
+Ran at 2020-08-19 10:01:30.969068
+Ran at 2020-08-19 10:01:31.576238
+Ran at 2020-08-19 10:01:32.161288
+Ran at 2020-08-19 10:01:32.758691
+Ran at 2020-08-19 10:01:33.514700
+Ran at 2020-08-19 10:01:34.137002
+Ran at 2020-08-19 10:01:34.730055
+Ran at 2020-08-19 10:01:35.355854
+Ran at 2020-08-19 10:01:35.954475
+Ran at 2020-08-19 10:01:36.560852
+Ran at 2020-08-19 10:01:37.166236
+Ran at 2020-08-19 10:01:37.748683
+Ran at 2020-08-19 10:01:38.478723
+Ran at 2020-08-19 10:01:39.124995
+Ran at 2020-08-19 10:01:39.721203
+Ran at 2020-08-19 10:01:40.383435
+Ran at 2020-08-19 10:01:40.985629
+Ran at 2020-08-19 10:01:41.557872
+Ran at 2020-08-19 10:01:42.152984
+Ran at 2020-08-19 10:01:42.827885
+Ran at 2020-08-19 10:01:43.420298
+Ran at 2020-08-19 10:01:44.162963
+Ran at 2020-08-19 10:01:44.798264
+Ran at 2020-08-19 10:01:45.408668
+Ran at 2020-08-19 10:01:46.015629
+Ran at 2020-08-19 10:01:46.625200
+Ran at 2020-08-19 10:01:47.189653
+Ran at 2020-08-19 10:01:47.800977
+Ran at 2020-08-19 10:01:48.393034
+Ran at 2020-08-19 10:01:49.001860
+Ran at 2020-08-19 10:01:49.765355
+Ran at 2020-08-19 10:01:50.374785
+Ran at 2020-08-19 10:01:50.959418
+Ran at 2020-08-19 10:01:51.556831
+Ran at 2020-08-19 10:01:52.176442
+Ran at 2020-08-19 10:01:52.769866
+Ran at 2020-08-19 10:01:53.364612
+Ran at 2020-08-19 10:01:53.964045
+Ran at 2020-08-19 10:01:54.577369
+Ran at 2020-08-19 10:01:55.242789
+Ran at 2020-08-19 10:01:55.852737
+Ran at 2020-08-19 10:01:56.445751
+Ran at 2020-08-19 10:01:57.052131
+Ran at 2020-08-19 10:01:57.638562
+Ran at 2020-08-19 10:01:58.233012
+Ran at 2020-08-19 10:01:58.829010
+Ran at 2020-08-19 10:01:59.452309
+Ran at 2020-08-19 10:02:00.071551
+Ran at 2020-08-19 10:02:00.828525
+Ran at 2020-08-19 10:02:01.413966
+Ran at 2020-08-19 10:02:02.009769
+Ran at 2020-08-19 10:02:02.595942
+Ran at 2020-08-19 10:02:03.184333
+Ran at 2020-08-19 10:02:03.763742
+Ran at 2020-08-19 10:02:04.369439
+Ran at 2020-08-19 10:02:04.963396
+Ran at 2020-08-19 10:02:05.626998
+Ran at 2020-08-19 10:02:06.327162
+Ran at 2020-08-19 10:02:06.926822
+Ran at 2020-08-19 10:02:07.516403
+Ran at 2020-08-19 10:02:08.166710
+Ran at 2020-08-19 10:02:08.743172
+Ran at 2020-08-19 10:02:09.352541
+Ran at 2020-08-19 10:02:09.951148
+Ran at 2020-08-19 10:02:10.556142
+Ran at 2020-08-19 10:02:11.306532
+Ran at 2020-08-19 10:02:11.929874
+Ran at 2020-08-19 10:02:12.540272
+Ran at 2020-08-19 10:02:13.122694
+Ran at 2020-08-19 10:02:13.708165
+Ran at 2020-08-19 10:02:14.311566
+Ran at 2020-08-19 10:02:14.896997
+Ran at 2020-08-19 10:02:15.484974
+Ran at 2020-08-19 10:02:16.075469
+Ran at 2020-08-19 10:02:16.854383
+Ran at 2020-08-19 10:02:17.452781
+Ran at 2020-08-19 10:02:18.064164
+Ran at 2020-08-19 10:02:18.668366
+Ran at 2020-08-19 10:02:19.272374
+Ran at 2020-08-19 10:02:19.882785
+Ran at 2020-08-19 10:02:20.485250
+Ran at 2020-08-19 10:02:21.107387
+Ran at 2020-08-19 10:02:21.687849
+Ran at 2020-08-19 10:02:23.072127
+Ran at 2020-08-19 10:02:24.819455
+Ran at 2020-08-19 10:02:26.601689
+Ran at 2020-08-19 10:02:28.358987
+Ran at 2020-08-19 10:02:30.085371
+Ran at 2020-08-19 10:02:31.829717
+Ran at 2020-08-19 10:02:33.644849
+Ran at 2020-08-19 10:02:34.889522
+Ran at 2020-08-19 10:02:35.491909
+Ran at 2020-08-19 10:02:36.085320
+Ran at 2020-08-19 10:02:36.694358
+Ran at 2020-08-19 10:02:37.287766
+Ran at 2020-08-19 10:02:37.907493
+Ran at 2020-08-19 10:02:38.503435
+Ran at 2020-08-19 10:02:39.095847
+Ran at 2020-08-19 10:02:39.707654
+Ran at 2020-08-19 10:02:40.316235
+Ran at 2020-08-19 10:02:40.934579
+Ran at 2020-08-19 10:39:03.742209
+Ran at 2020-08-19 10:40:41.060843
+Ran at 2020-08-19 10:42:34.134486
+Ran at 2020-08-19 10:44:24.633949
+Ran at 2020-08-19 10:46:10.547945
+Ran at 2020-08-19 10:47:58.061716
+Ran at 2020-08-19 10:49:45.741160
+Ran at 2020-08-19 10:51:30.022189
+Ran at 2020-08-19 10:53:13.373612
+Ran at 2020-08-19 10:56:12.669205
+Ran at 2020-08-19 10:57:47.680345
+Ran at 2020-08-19 10:59:25.421781
+Ran at 2020-08-19 11:01:12.181516
+Ran at 2020-08-19 11:02:51.536604
+Ran at 2020-08-19 11:04:27.632283
+Ran at 2020-08-19 11:06:07.382234
+Ran at 2020-08-19 11:07:45.341064
+Ran at 2020-08-19 11:09:24.937830
+Ran at 2020-08-19 11:11:04.272277
+Ran at 2020-08-19 11:12:45.506694
+Ran at 2020-08-19 11:14:24.257268
+Ran at 2020-08-19 11:16:03.233179
+Ran at 2020-08-19 11:17:41.126591
+Ran at 2020-08-19 11:19:17.616564
+Ran at 2020-08-19 11:20:58.591379
+Ran at 2020-08-19 11:22:36.644096
+Ran at 2020-08-19 11:24:16.228314
+Ran at 2020-08-19 11:26:28.342595
+Ran at 2020-08-19 11:28:55.706532
+Ran at 2020-08-19 11:31:02.140328
+Ran at 2020-08-19 11:33:03.620983
+Ran at 2020-08-19 11:35:20.478785
+Ran at 2020-08-19 11:37:17.821425
+Ran at 2020-08-19 11:39:16.763587
+Ran at 2020-08-19 11:41:16.851193
+Ran at 2020-08-19 11:43:24.550126
+Ran at 2020-08-19 11:45:33.066189
+Ran at 2020-08-19 11:47:35.005931
+Ran at 2020-08-19 11:49:40.152401
+Ran at 2020-08-19 11:51:34.231205
+Ran at 2020-08-19 13:03:15.598113
+Ran at 2020-08-19 13:05:14.594917
+Ran at 2020-08-19 13:07:24.011896
+Ran at 2020-08-19 13:09:33.104806
+Ran at 2020-08-19 13:11:47.178523
+Ran at 2020-08-19 13:13:55.817859
+Ran at 2020-08-19 13:16:06.843140
+Ran at 2020-08-19 13:18:09.128975
+Ran at 2020-08-19 13:20:11.357455
+Ran at 2020-08-19 13:22:13.564939
+Ran at 2020-08-19 13:24:14.734805
+Ran at 2020-08-19 13:26:21.679742
+Ran at 2020-08-19 13:28:13.646299
+Ran at 2020-08-19 13:30:04.696708
+Ran at 2020-08-19 13:31:49.396749
+Ran at 2020-08-19 13:33:33.816522
+Ran at 2020-08-19 13:35:16.680793
+Ran at 2020-08-19 13:37:35.137136
+Ran at 2020-08-19 13:39:41.181527
+Ran at 2020-08-19 13:41:41.216502
+Ran at 2020-08-19 13:43:32.734219
+Ran at 2020-08-19 13:45:25.554766
+Ran at 2020-08-19 13:47:20.533654
+Ran at 2020-08-19 13:49:11.512774
+Ran at 2020-08-19 13:51:13.775648
+Ran at 2020-08-19 13:53:11.862505
+Ran at 2020-08-19 13:55:11.265201
+Ran at 2020-08-19 13:57:15.097536
+Ran at 2020-08-19 13:59:13.523097
+Ran at 2020-08-19 14:01:11.831255
+Ran at 2020-08-19 14:04:10.095744
+Ran at 2020-08-19 14:06:31.482009
+Ran at 2020-08-19 14:08:39.020983
+Ran at 2020-08-19 14:10:42.459607
+Ran at 2020-08-19 14:12:50.695133
+Ran at 2020-08-19 14:15:31.249896
+Ran at 2020-08-19 14:18:43.877933
+Ran at 2020-08-19 14:20:59.720719
+Ran at 2020-08-19 14:23:30.544814
+Ran at 2020-08-19 14:25:35.676391
+Ran at 2020-08-19 14:27:40.994769
+Ran at 2020-08-19 14:29:42.955113
+Ran at 2020-08-19 14:32:00.239782
+Ran at 2020-08-19 14:34:26.722052
+Ran at 2020-08-19 14:36:34.465806
+Ran at 2020-08-19 14:38:42.518459
+Ran at 2020-08-19 14:40:54.301688
+Ran at 2020-08-19 14:43:28.110794
+Ran at 2020-08-19 14:46:15.715850
+Ran at 2020-08-19 14:48:45.408705
+Ran at 2020-08-19 20:44:25.669593
+Ran at 2020-08-19 20:46:10.273720
+Ran at 2020-08-19 20:48:18.893980
+Ran at 2020-08-19 20:50:43.401831
+Ran at 2020-08-19 20:52:34.141574
+Ran at 2020-08-19 20:54:32.441547
+Ran at 2020-08-19 20:56:10.277467
+Ran at 2020-08-19 20:57:48.156605
+Ran at 2020-08-19 20:59:22.550617
+Ran at 2020-08-19 21:00:56.232640
+Ran at 2020-08-19 21:02:32.045272
+Ran at 2020-08-19 21:04:08.152237
+Ran at 2020-08-19 21:05:40.636572
+Ran at 2020-08-19 21:07:10.812510
+Ran at 2020-08-19 21:08:40.124073
+Ran at 2020-08-19 21:10:08.325169
+Ran at 2020-08-19 21:11:35.010259
+Ran at 2020-08-19 21:13:01.930743
+Ran at 2020-08-19 21:14:30.343445
+Ran at 2020-08-19 21:15:59.727832
+Ran at 2020-08-19 21:17:38.636357
+Ran at 2020-08-19 21:19:33.571944
+Ran at 2020-08-19 21:21:38.994570
+Ran at 2020-08-19 21:23:19.277049
+Ran at 2020-08-19 21:25:01.722591
+Ran at 2020-08-19 21:26:59.443345
+Ran at 2020-08-19 21:28:49.101767
+Ran at 2020-08-19 21:30:44.633667
+Ran at 2020-08-19 21:32:42.974373
+Ran at 2020-08-19 21:34:38.057374
+Ran at 2020-08-19 21:36:33.297746
+Ran at 2020-08-19 21:38:26.732743
+Ran at 2020-08-19 21:40:20.364006
+Ran at 2020-08-19 21:42:11.129977
+Ran at 2020-08-19 21:44:07.556976
+Ran at 2020-08-19 21:46:00.608626
+Ran at 2020-08-19 21:47:57.312317
+Ran at 2020-08-19 21:49:50.059690
+Ran at 2020-08-19 21:51:47.870877
+Ran at 2020-08-19 21:53:44.514033
+Ran at 2020-08-19 21:55:35.759978
+Ran at 2020-08-19 21:57:30.012968
+Ran at 2020-08-19 21:59:25.472551
+Ran at 2020-08-19 22:01:37.246111
+Ran at 2020-08-19 22:03:27.356106
+Ran at 2020-08-19 22:05:22.748483
+Ran at 2020-08-19 22:07:23.588097
+Ran at 2020-08-19 22:09:03.447202
+Ran at 2020-08-19 22:10:47.406570
+Ran at 2020-08-19 22:12:29.695788
+Ran at 2020-08-19 23:12:13.602114
+Ran at 2020-08-19 23:13:03.273041
+Ran at 2020-08-19 23:14:23.896057
+Ran at 2020-08-19 23:15:47.823181
+Ran at 2020-08-19 23:17:06.575906
+Ran at 2020-08-19 23:18:29.434087
+Ran at 2020-08-19 23:19:50.908800
+Ran at 2020-08-19 23:21:15.982392
+Ran at 2020-08-19 23:22:36.666170
+Ran at 2020-08-19 23:23:56.161392
+Ran at 2020-08-19 23:25:21.147476
+Ran at 2020-08-19 23:26:52.821827
+Ran at 2020-08-19 23:28:17.316445
+Ran at 2020-08-19 23:29:49.088893
+Ran at 2020-08-19 23:31:12.086499
+Ran at 2020-08-19 23:32:34.873385
+Ran at 2020-08-19 23:33:55.878933
+Ran at 2020-08-19 23:35:21.773308
+Ran at 2020-08-19 23:37:04.180271
+Ran at 2020-08-19 23:38:37.906337
+Ran at 2020-08-19 23:40:00.609049
+Ran at 2020-08-19 23:41:32.616510
+Ran at 2020-08-19 23:42:55.834586
+Ran at 2020-08-19 23:44:18.329157
+Ran at 2020-08-19 23:45:43.977119
+Ran at 2020-08-19 23:47:06.501319
+Ran at 2020-08-19 23:48:29.073438
+Ran at 2020-08-19 23:50:04.738293
+Ran at 2020-08-19 23:51:41.868726
+Ran at 2020-08-19 23:53:08.763891
+Ran at 2020-08-19 23:54:48.796229
+Ran at 2020-08-19 23:56:07.409839
+Ran at 2020-08-19 23:57:25.994190
+Ran at 2020-08-19 23:58:44.962105
+Ran at 2020-08-20 00:00:05.003006
+Ran at 2020-08-20 00:01:21.333119
+Ran at 2020-08-20 00:02:42.704883
+Ran at 2020-08-20 00:04:01.155333
+Ran at 2020-08-20 00:05:19.360549
+Ran at 2020-08-20 00:06:49.373562
+Ran at 2020-08-20 00:08:15.441979
+Ran at 2020-08-20 00:09:37.361201
+Ran at 2020-08-20 00:10:59.085960
+Ran at 2020-08-20 00:12:21.478505
+Ran at 2020-08-20 00:13:48.122819
+Ran at 2020-08-20 00:13:46.522100
+Ran at 2020-08-20 00:15:39.075243
+Ran at 2020-08-20 00:15:47.792937
+Ran at 2020-08-20 00:17:33.154790
+Ran at 2020-08-20 00:17:45.078980
+Ran at 2020-08-20 00:19:26.725850
+Ran at 2020-08-20 00:19:38.124290
+Ran at 2020-08-20 00:21:20.464090
+Ran at 2020-08-20 00:21:32.235856
+Ran at 2020-08-20 00:23:13.204813
+Ran at 2020-08-20 00:23:25.856986
+Ran at 2020-08-20 00:25:03.239921
+Ran at 2020-08-20 00:26:29.573865
+Ran at 2020-08-20 00:27:52.858922
+Ran at 2020-08-20 00:29:17.724293
+Ran at 2020-08-20 00:30:48.979854
+Ran at 2020-08-20 00:32:59.394604
+Ran at 2020-08-20 00:36:22.990832
+Ran at 2020-08-20 00:39:47.239662
+Ran at 2020-08-20 00:43:15.398620
+Ran at 2020-08-20 00:46:39.326628
+Ran at 2020-08-20 10:46:57.542641
+Ran at 2020-08-20 10:48:59.835461
+Ran at 2020-08-20 10:51:19.677528
+Ran at 2020-08-20 10:53:38.847561
+Ran at 2020-08-20 10:55:56.101882
+Ran at 2020-08-20 10:58:04.524057
+Ran at 2020-08-20 11:00:15.986459
+Ran at 2020-08-20 11:02:37.173260
+Ran at 2020-08-20 11:04:57.101265
+Ran at 2020-08-20 11:07:08.887992
+Ran at 2020-08-20 11:09:32.568052
+Ran at 2020-08-20 11:11:55.294290
+Ran at 2020-08-20 11:14:24.705363
+Ran at 2020-08-20 11:16:44.710151
+Ran at 2020-08-20 11:19:00.103935
+Ran at 2020-08-20 11:21:12.557842
+Ran at 2020-08-20 11:23:22.311645
+Ran at 2020-08-20 11:25:47.297230
+Ran at 2020-08-20 11:27:50.348912
+Ran at 2020-08-20 11:29:59.447003
+Ran at 2020-08-20 11:32:03.198233
+Ran at 2020-08-20 11:34:16.930762
+Ran at 2020-08-20 11:36:43.474439
+Ran at 2020-08-20 11:39:07.995846
+Ran at 2020-08-20 11:41:15.346926
+Ran at 2020-08-20 11:43:27.275976
+Ran at 2020-08-20 11:45:29.193234
+Ran at 2020-08-20 11:46:50.998822
+Ran at 2020-08-20 11:48:12.267736
+Ran at 2020-08-20 11:49:33.315389
+Ran at 2020-08-20 11:50:56.988825
+Ran at 2020-08-20 11:52:19.281233
+Ran at 2020-08-20 11:53:41.459342
+Ran at 2020-08-20 11:55:04.518544
+Ran at 2020-08-20 11:56:29.607495
+Ran at 2020-08-20 12:05:06.556684
+Ran at 2020-08-20 12:06:48.561440
+Ran at 2020-08-20 12:08:28.462981
+Ran at 2020-08-20 12:10:09.552597
+Ran at 2020-08-20 12:11:57.972728
+Ran at 2020-08-20 12:13:37.287218
+Ran at 2020-08-20 12:15:26.621523
+Ran at 2020-08-20 12:16:58.253845
+Ran at 2020-08-20 12:18:37.363333
+Ran at 2020-08-20 12:20:10.367752
+Ran at 2020-08-20 12:21:54.481191
+Ran at 2020-08-20 12:23:31.128897
+Ran at 2020-08-20 12:25:08.741084
+Ran at 2020-08-20 12:26:48.037212
+Ran at 2020-08-20 12:28:23.807853
+Ran at 2020-08-20 12:30:08.061384
+Ran at 2020-08-20 12:31:52.844232
+Ran at 2020-08-20 12:33:29.727839
+Ran at 2020-08-20 12:35:12.729985
+Ran at 2020-08-20 12:36:57.107901
+Ran at 2020-08-20 12:38:39.929963
+Ran at 2020-08-20 12:40:34.665914
+Ran at 2020-08-20 12:42:12.090798
+Ran at 2020-08-20 12:43:55.402165
+Ran at 2020-08-20 12:45:36.875267
+Ran at 2020-08-20 12:47:26.846817
+Ran at 2020-08-20 12:49:12.446660
+Ran at 2020-08-20 12:51:01.804777
+Ran at 2020-08-20 12:52:49.151714
+Ran at 2020-08-20 12:54:36.192768
+Ran at 2020-08-20 12:56:23.840774
+Ran at 2020-08-20 12:58:14.227430
+Ran at 2020-08-20 12:59:56.390932
+Ran at 2020-08-20 13:01:42.087629
+Ran at 2020-08-20 13:03:28.936790
+Ran at 2020-08-20 13:17:47.894275
+Ran at 2020-08-20 13:19:44.934635
+Ran at 2020-08-20 13:21:38.998856
+Ran at 2020-08-20 13:23:32.040018
+Ran at 2020-08-20 13:25:32.082272
+Ran at 2020-08-20 13:27:32.005639
+Ran at 2020-08-20 13:29:38.741191
+Ran at 2020-08-20 13:31:31.190117
+Ran at 2020-08-20 13:33:28.829812
+Ran at 2020-08-20 13:35:23.480071
+Ran at 2020-08-20 13:37:16.015202
+Ran at 2020-08-20 13:39:16.562299
+Ran at 2020-08-20 13:41:12.264396
+Ran at 2020-08-20 13:43:07.059503
+Ran at 2020-08-20 13:45:02.436963
+Ran at 2020-08-20 13:46:58.456566
+Ran at 2020-08-20 13:48:56.832145
+Ran at 2020-08-20 13:50:47.890701
+Ran at 2020-08-20 13:52:43.279185
+Ran at 2020-08-20 13:55:17.244325
+Ran at 2020-08-20 13:57:12.514588
+Ran at 2020-08-20 13:59:06.663807
+Ran at 2020-08-20 14:01:00.969222
+Ran at 2020-08-20 14:02:56.127572
+Ran at 2020-08-20 14:04:49.632606
+Ran at 2020-08-20 14:06:50.797589
+Ran at 2020-08-20 14:08:43.983064
+Ran at 2020-08-20 14:10:36.963389
+Ran at 2020-08-20 14:12:32.474984
+Ran at 2020-08-20 14:14:26.867651
+Ran at 2020-08-20 14:16:21.003432
+Ran at 2020-08-20 14:18:15.677121
+Ran at 2020-08-20 14:20:20.284269
+Ran at 2020-08-20 14:22:39.421153
+Ran at 2020-08-20 14:24:31.112774
+Ran at 2020-08-20 14:31:02.418349
+Ran at 2020-08-20 14:33:18.451312
+Ran at 2020-08-20 14:35:09.398732
+Ran at 2020-08-20 14:37:24.034459
+Ran at 2020-08-20 14:39:22.301486
+Ran at 2020-08-20 14:41:25.386573
+Ran at 2020-08-20 14:43:12.748248
+Ran at 2020-08-20 14:45:03.780918
+Ran at 2020-08-20 14:46:55.909262
+Ran at 2020-08-20 14:49:01.767989
+Ran at 2020-08-20 14:51:01.590021
+Ran at 2020-08-20 14:52:59.772184
+Ran at 2020-08-20 14:55:05.135171
+Ran at 2020-08-20 14:57:08.850407
+Ran at 2020-08-20 14:59:09.328987
+Ran at 2020-08-20 15:00:46.863914
+Ran at 2020-08-20 15:02:32.029739
+Ran at 2020-08-20 15:04:01.996269
+Ran at 2020-08-20 15:06:00.398295
+Ran at 2020-08-20 15:07:56.761222
+Ran at 2020-08-20 15:10:01.192953
+Ran at 2020-08-20 15:11:53.499209
+Ran at 2020-08-20 15:13:56.166221
+Ran at 2020-08-20 15:15:50.309944
+Ran at 2020-08-20 15:17:31.646581
+Ran at 2020-08-20 15:18:56.421965
+Ran at 2020-08-20 15:20:44.702702
+Ran at 2020-08-20 15:22:38.288199
+Ran at 2020-08-20 15:24:48.301879
+Ran at 2020-08-20 15:26:43.597795
+Ran at 2020-08-20 15:29:08.257247
+Ran at 2020-08-20 15:31:12.775959
+Ran at 2020-08-20 15:33:21.673514
+Ran at 2020-08-20 15:35:26.832879
+Ran at 2020-08-20 15:37:30.521532
+Ran at 2020-08-20 18:07:54.909078
+Ran at 2020-08-20 18:08:36.734545
+Ran at 2020-08-20 18:08:53.448975
+Ran at 2020-08-20 18:10:38.690075
+Ran at 2020-08-20 18:12:41.105022
+Ran at 2020-08-20 18:14:41.012678
+Ran at 2020-08-20 18:16:38.156630
+Ran at 2020-08-20 18:18:43.024845
+Ran at 2020-08-20 18:20:26.813474
+Ran at 2020-08-20 18:22:18.889776
+Ran at 2020-08-20 18:24:07.200740
+Ran at 2020-08-20 18:26:08.054656
+Ran at 2020-08-20 18:28:25.261573
+Ran at 2020-08-20 18:30:38.466362
+Ran at 2020-08-20 18:32:58.768548
+Ran at 2020-08-20 18:35:06.278127
+Ran at 2020-08-20 18:37:09.796325
+Ran at 2020-08-20 18:39:17.485451
+Ran at 2020-08-20 18:41:20.776780
+Ran at 2020-08-20 18:43:21.765061
+Ran at 2020-08-20 18:45:42.154083
+Ran at 2020-08-20 18:49:00.650653
+Ran at 2020-08-20 18:52:31.899704
+Ran at 2020-08-20 18:55:49.674354
+Ran at 2020-08-20 18:59:02.550565
+Ran at 2020-08-20 19:02:10.915686
+Ran at 2020-08-20 19:05:24.823513
+Ran at 2020-08-20 20:26:14.686355
+Ran at 2020-08-20 20:28:36.337718
+Ran at 2020-08-20 20:31:04.890333
+Ran at 2020-08-20 20:33:32.169723
+Ran at 2020-08-20 20:36:03.132662
+Ran at 2020-08-20 20:38:23.334881
+Ran at 2020-08-20 20:40:36.940213
+Ran at 2020-08-20 20:42:57.152304
+Ran at 2020-08-20 20:45:17.340076
+Ran at 2020-08-20 20:47:21.100087
+Ran at 2020-08-20 20:49:30.860750
+Ran at 2020-08-20 20:51:41.682024
+Ran at 2020-08-20 20:53:55.762804
+Ran at 2020-08-20 20:56:08.060058
+Ran at 2020-08-20 20:58:37.696003
+Ran at 2020-08-20 21:01:28.895666
+Ran at 2020-08-20 21:08:49.799287
+Ran at 2020-08-20 21:11:02.713023
+Ran at 2020-08-20 21:13:22.681211
+Ran at 2020-08-20 21:15:38.998810
+Ran at 2020-08-20 21:17:54.463937
+Ran at 2020-08-20 21:20:19.182776
+Ran at 2020-08-20 21:22:41.161882
+Ran at 2020-08-20 21:24:44.449331

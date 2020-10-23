@@ -1,0 +1,215 @@
+Ran at 2020-08-18 01:25:26.828816
+Error - 1 Not found in page1
+Error - 3 Not found in page1
+Error - 10 Not found in page1
+Error - 14 Not found in page1
+Ran at 2020-08-18 01:31:51.002396
+Going through pages of listings within suburbs broken at page2
+Ran at 2020-08-18 01:36:26.562996
+Error - 3 Not found in page2
+Error - 10 Not found in page2
+Error - 14 Not found in page2
+Error - 20 Not found in page2
+Error - 24 Not found in page2
+Ran at 2020-08-18 01:42:51.593838
+Error - 3 Not found in page3
+Error - 4 Not found in page3
+Error - 10 Not found in page3
+Error - 14 Not found in page3
+Error - 24 Not found in page3
+Ran at 2020-08-18 01:48:58.990311
+Error - 3 Not found in page4
+Error - 5 Not found in page4
+Error - 10 Not found in page4
+Error - 14 Not found in page4
+Error - 24 Not found in page4
+Ran at 2020-08-18 01:54:30.093527
+Error - 3 Not found in page5
+Error - 10 Not found in page5
+Error - 14 Not found in page5
+Error - 24 Not found in page5
+Ran at 2020-08-18 01:59:31.667995
+Error - 3 Not found in page6
+Error - 5 Not found in page6
+Error - 10 Not found in page6
+Error - 14 Not found in page6
+Error - 15 Not found in page6
+Error - 16 Not found in page6
+Error - 24 Not found in page6
+Ran at 2020-08-18 02:04:31.959317
+Error - 3 Not found in page7
+Error - 10 Not found in page7
+Error - 14 Not found in page7
+Error - 24 Not found in page7
+Ran at 2020-08-18 02:09:33.049872
+Error - 3 Not found in page8
+Error - 10 Not found in page8
+Error - 11 Not found in page8
+Error - 14 Not found in page8
+Error - 19 Not found in page8
+Error - 24 Not found in page8
+Ran at 2020-08-18 02:14:34.481565
+Error - 3 Not found in page9
+Error - 10 Not found in page9
+Error - 14 Not found in page9
+Error - 24 Not found in page9
+Ran at 2020-08-18 02:19:41.064533
+Error - 3 Not found in page10
+Error - 10 Not found in page10
+Error - 14 Not found in page10
+Error - 24 Not found in page10
+Ran at 2020-08-18 02:24:43.136578
+Error - 3 Not found in page11
+Error - 7 Not found in page11
+Error - 10 Not found in page11
+Error - 14 Not found in page11
+Error - 24 Not found in page11
+Ran at 2020-08-18 02:29:44.383510
+Error - 3 Not found in page12
+Error - 6 Not found in page12
+Error - 7 Not found in page12
+Error - 10 Not found in page12
+Error - 14 Not found in page12
+Error - 21 Not found in page12
+Error - 24 Not found in page12
+Ran at 2020-08-18 02:34:42.989319
+Error - 3 Not found in page13
+Error - 10 Not found in page13
+Error - 14 Not found in page13
+Error - 15 Not found in page13
+Error - 23 Not found in page13
+Error - 24 Not found in page13
+Ran at 2020-08-18 02:39:58.959535
+Error - 3 Not found in page14
+Error - 8 Not found in page14
+Error - 10 Not found in page14
+Error - 14 Not found in page14
+Error - 24 Not found in page14
+Ran at 2020-08-18 02:45:17.470942
+Error - 3 Not found in page15
+Error - 10 Not found in page15
+Error - 14 Not found in page15
+Error - 20 Not found in page15
+Error - 24 Not found in page15
+Ran at 2020-08-18 02:50:39.546487
+Error - 3 Not found in page16
+Error - 10 Not found in page16
+Error - 14 Not found in page16
+Error - 22 Not found in page16
+Error - 24 Not found in page16
+Ran at 2020-08-18 02:55:58.846703
+Error - 3 Not found in page17
+Error - 10 Not found in page17
+Error - 14 Not found in page17
+Error - 23 Not found in page17
+Error - 24 Not found in page17
+Ran at 2020-08-18 03:01:17.393386
+Error - 3 Not found in page18
+Error - 10 Not found in page18
+Error - 14 Not found in page18
+Error - 24 Not found in page18
+Ran at 2020-08-18 03:06:41.591032
+Error - 3 Not found in page19
+Error - 10 Not found in page19
+Error - 14 Not found in page19
+Error - 24 Not found in page19
+Ran at 2020-08-18 03:12:05.440607
+Error - 3 Not found in page20
+Error - 10 Not found in page20
+Error - 14 Not found in page20
+Error - 21 Not found in page20
+Error - 24 Not found in page20
+Ran at 2020-08-18 03:17:26.767209
+Error - 3 Not found in page21
+Error - 9 Not found in page21
+Error - 10 Not found in page21
+Error - 14 Not found in page21
+Error - 24 Not found in page21
+Ran at 2020-08-18 03:22:42.811329
+Error - 3 Not found in page22
+Error - 7 Not found in page22
+Error - 10 Not found in page22
+Error - 12 Not found in page22
+Error - 14 Not found in page22
+Error - 15 Not found in page22
+Error - 19 Not found in page22
+Error - 24 Not found in page22
+Ran at 2020-08-18 03:27:53.906798
+Error - 3 Not found in page23
+Error - 10 Not found in page23
+Error - 14 Not found in page23
+Error - 24 Not found in page23
+Ran at 2020-08-18 03:33:17.030905
+Error - 3 Not found in page24
+Error - 10 Not found in page24
+Error - 14 Not found in page24
+Error - 20 Not found in page24
+Error - 24 Not found in page24
+Ran at 2020-08-18 03:38:48.543484
+Error - 3 Not found in page25
+Error - 10 Not found in page25
+Error - 13 Not found in page25
+Error - 14 Not found in page25
+Error - 16 Not found in page25
+Error - 24 Not found in page25
+Ran at 2020-08-18 03:44:17.738218
+Error - 3 Not found in page26
+Error - 10 Not found in page26
+Error - 14 Not found in page26
+Error - 24 Not found in page26
+Ran at 2020-08-18 03:50:08.172052
+Error - 3 Not found in page27
+Error - 9 Not found in page27
+Error - 10 Not found in page27
+Error - 14 Not found in page27
+Error - 24 Not found in page27
+Ran at 2020-08-18 03:55:51.017836
+Error - 3 Not found in page28
+Error - 10 Not found in page28
+Error - 13 Not found in page28
+Error - 14 Not found in page28
+Error - 24 Not found in page28
+Ran at 2020-08-18 04:01:42.310125
+Error - 3 Not found in page29
+Error - 7 Not found in page29
+Error - 10 Not found in page29
+Error - 13 Not found in page29
+Error - 14 Not found in page29
+Error - 19 Not found in page29
+Error - 24 Not found in page29
+Ran at 2020-08-18 04:09:25.225702
+Error - 3 Not found in page30
+Error - 4 Not found in page30
+Error - 6 Not found in page30
+Error - 7 Not found in page30
+Error - 9 Not found in page30
+Error - 10 Not found in page30
+Error - 11 Not found in page30
+Error - 12 Not found in page30
+Error - 14 Not found in page30
+Error - 15 Not found in page30
+Error - 20 Not found in page30
+Error - 21 Not found in page30
+Error - 24 Not found in page30
+Ran at 2020-08-18 04:19:43.261854
+Error - 3 Not found in page31
+Error - 10 Not found in page31
+Error - 14 Not found in page31
+Error - 16 Not found in page31
+Error - 24 Not found in page31
+Ran at 2020-08-18 04:29:16.533804
+Error - 3 Not found in page32
+Error - 7 Not found in page32
+Error - 10 Not found in page32
+Error - 14 Not found in page32
+Error - 15 Not found in page32
+Error - 16 Not found in page32
+Error - 24 Not found in page32
+Ran at 2020-08-18 04:39:27.816398
+Error - 3 Not found in page33
+Error - 5 Not found in page33
+Error - 6 Not found in page33
+Error - 10 Not found in page33
+Error - 14 Not found in page33
+Error - 16 Not found in page33
+Error - 18 Not found in page33
